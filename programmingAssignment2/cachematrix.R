@@ -1,4 +1,6 @@
 ## Assignment2
+## Hanneke5353
+## April 24
 ## Two function to calculate the inverse of a sqaured matrix
 
 ## makeCacheMatrix sets functions that can can get or set the inverse of a matrix
